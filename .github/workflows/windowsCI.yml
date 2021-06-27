@@ -1,4 +1,4 @@
-name: UbuntuCI
+name: WindowsCI
 
 on:
   push:
